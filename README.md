@@ -93,12 +93,11 @@
 
 <div align="center">
 
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me  
