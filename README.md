@@ -93,9 +93,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight)  
+![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight)
 
 </div>
 
