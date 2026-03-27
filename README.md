@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hey, I'm Aarav  
-### 🚀 Full-Stack Developer | 🤖 AI & ML Enthusiast  
+### 🚀 Full-Stack Developer | 🤖 AI, ML & Generative AI Explorer  
 
-💡 Building intelligent systems that solve real-world problems  
-🎯 Passionate about Generative AI, Computer Vision & Scalable Apps  
+💡 Turning ideas into intelligent, scalable systems  
+⚡ Passionate about AI Agents, Computer Vision & System Design  
 
 </div>
 
@@ -12,93 +12,80 @@
 
 ## 🧑‍💻 About Me  
 
-🎓 B.Tech CSE (Data Science) @ **Manipal University Jaipur** (2023–2027)  
-📊 GPA: **9.6 / 10**  
+🎓 **B.Tech CSE (Data Science)** @ Manipal University Jaipur *(2023–2027)*  
+📊 **CGPA: 9.4 / 10**  
 
-✨ I love blending **AI + Full Stack Development** to create impactful, real-world solutions.  
-⚡ Currently exploring **AI Agents, LLMs & advanced system design**  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages & Frameworks  
-- ⚛️ **Frontend:** React.js, JavaScript, Tailwind CSS  
-- 🧠 **Backend:** Python (FastAPI)  
-- ⚙️ **Core:** C++ (DSA), Java  
-
-### 🤖 AI / ML / Deep Learning  
-- Generative AI & LLMs  
-- YOLOv8 (Object Detection)  
-- Computer Vision  
-- Anomaly Detection (LOF)  
-
-### ⚙️ Tools & Other Skills  
-- Blockchain  
-- Geo-Fencing  
-- DevOps Basics  
-- API Design & Integration  
+✨ I specialize in combining **AI + Full Stack Development** to build real-world, impactful systems  
+🔍 Strong foundation in **DSA, System Design & Machine Learning**  
 
 ---
 
-## 💼 Experience & Leadership  
+## 🛠️ Tech Arsenal  
 
-- 💼 **DevOps Intern @ Ericsson India, Noida** *(Jun 2025 – Aug 2025)*  
-- 👨‍💻 **Technical Secretary @ IEEE WIE Jaipur** *(Present)*  
+### 💻 Languages  
+`Python` `C++` `JavaScript` `Java` `SQL`  
+
+### ⚛️ Frameworks & Libraries  
+`React.js` `Node.js` `Express.js` `FastAPI`  
+`PyTorch` `TensorFlow` `Scikit-learn` `Tailwind CSS`  
+
+### 🤖 AI / ML & GenAI  
+- Hugging Face Transformers  
+- Stable Diffusion + ControlNet  
+- LangChain & Agentic AI  
+- Computer Vision (OpenCV, YOLO)  
+
+### ☁️ Cloud & DevOps  
+`Docker` `Kubernetes` `GCP` `CI/CD` `GitHub` `kubectl`  
+
+### 🧰 Tools & Concepts  
+`D3.js` `n8n` `REST APIs` `Graph Algorithms (BFS/DFS)`  
+
+---
+
+## 💼 Experience  
+
+### 💼 DevOps Intern @ Ericsson India *(Jun 2025 – Aug 2025)*  
+- 🚀 Deployed & monitored **containerized applications in Kubernetes**  
+- ⚙️ Managed **pod lifecycle, scaling & debugging using kubectl**  
+- 🔧 Assisted in maintaining **CI/CD pipelines for telecom infrastructure**  
+- 📈 Improved system reliability by resolving configuration issues  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🧠 Git-Good  
-> AI-powered coding assistant  
-- Uses **Phi-3 + CodeLlama**  
-- Context-aware suggestions  
-- Built with React + FastAPI  
+### 🌐 Social Media Visualizer  
+> Full-stack MERN platform to understand recommendation systems  
+
+- ⚡ Built real-time multi-user system with **Socket.IO**  
+- 📊 Designed **D3.js graph visualizations with BFS traversal**  
+- 🧠 Implemented hybrid recommendation engine (4 scoring factors across platforms)  
 
 ---
 
-### 🛡️ Smart Tourist Safety System  
-> AI-powered safety + monitoring system  
-- Blockchain + Geo-Fencing  
-- Real-time anomaly detection using **LOF**  
+### 🎨 Generative AI Interior Design Studio  
+> AI-powered room transformation system  
+
+- 🖼️ Used **Stable Diffusion + ControlNet** for photorealistic outputs  
+- 🔍 Combined **Depth + Canny edge detection** for structure preservation  
+- ⚙️ Built async **FastAPI backend with SDXL integration**  
+- 🎯 Achieved **60–80% structural fidelity control**  
+
+
+## 🧠 DSA & Problem Solving  
+
+- Strong in **Graphs, Trees, Hashing, Recursion**  
+- Hands-on with **BFS, DFS, Binary Search, Sorting Algorithms**  
+- Focused on **optimization & edge-case handling**  
+- Applied DSA concepts in **real-world projects (visualization & systems)**  
 
 ---
 
-### 🎨 Generative AI Interior Studio  
-> Transform rooms into different styles  
-- Built using **ControlNet + Stable Diffusion**  
-
----
-
-### 🐾 YOLOv8 Animal Detection  
-> Custom-trained object detection model  
-- Real-time classification of animals  
-
----
-
-### ⚡ PortfolioGen & Logo Generator  
-> AI-powered design automation tools  
-- Generate portfolios from resumes  
-- Prompt-based logo creation  
-
----
-
-### 🎵 Song Separator & 📅 Calendar Generator  
-> Utility full-stack apps  
-- Audio stem separation  
-- Dynamic downloadable calendars  
-
----
-
-### 🌐 IEEE WIE MUJ Website  
-> Official website (React + GitHub Pages)  
-
----
-
-### 🧩 CPP-DSA Repository  
-> Solving complex DSA problems  
-- LeetCode & advanced algorithms  
+### 📜 Certifications  
+- Google Cloud Computing Foundations *(In Progress)*  
+- NPTEL: Operating Systems, Java  
+- IIT Kanpur: Python for AI/ML & Data Science  
 
 ---
 
@@ -106,24 +93,25 @@
 
 <div align="center">
 
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me  
 
-- 🧑‍💻 GitHub: [@AaroAarav](https://github.com/AaroAarav)  
+- 🧑‍💻 GitHub: https://github.com/AaroAarav  
+- 📧 Email: aarav2005ggn@gmail.com  
 
 ---
 
 <div align="center">
 
-### ✨ *"Code. Build. Learn. Repeat."*  
+### ⚡ *"Build. Break. Learn. Repeat."*  
 
-🚀 Always open to collaborations & innovative ideas!
+🚀 Open to collaborations in AI, Full-Stack & impactful tech!
 
 </div>
