@@ -85,6 +85,7 @@
 * 📊 Developed **D3.js network visualizations with BFS-based traversal**
 * 🧠 Implemented multi-factor recommendation engine across social platforms
 * 🎯 Enabled real-time exploration of content propagation and user influence
+* 🎨 Redesigned UI with a **Glassmorphic Premium Dark Mode and Tabbed Architecture** for improved UX
 
 ---
 
