@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Hey, I'm Aarav  
-### 🚀 Full-Stack Developer | 🤖 AI, ML & Generative AI Explorer  
+### 🚀 Full-Stack Developer | 🤖 AI, ML & Generative AI Engineer  
 
-💡 Turning ideas into intelligent, scalable systems  
-⚡ Passionate about AI Agents, Computer Vision & System Design  
+💡 Building intelligent applications at the intersection of AI, data & scalable software  
+⚡ Passionate about AI Agents, Computer Vision, Generative AI & System Design  
 
 </div>
 
@@ -15,80 +15,96 @@
 🎓 **B.Tech CSE (Data Science)** @ Manipal University Jaipur *(2023–2027)*  
 📊 **CGPA: 9.33 / 10**  
 
-✨ I specialize in combining **AI + Full Stack Development** to build real-world, impactful systems  
-🔍 Strong foundation in **DSA, System Design & Machine Learning**  
+✨ I build end-to-end products combining **AI, Data Science & Full-Stack Development**  
+🔍 Strong foundation in **DSA, Machine Learning, System Design & Backend Engineering**  
+🚀 Currently exploring **Agentic AI, MCP Servers, LLM Applications & Cloud-Native Systems**
 
 ---
 
 ## 🛠️ Tech Arsenal  
 
 ### 💻 Languages  
-`Python` `C++` `JavaScript` `Java` `SQL`  
+`Python` `JavaScript` `Java` `C` `SQL`  
 
 ### ⚛️ Frameworks & Libraries  
 `React.js` `Node.js` `Express.js` `FastAPI`  
 `PyTorch` `TensorFlow` `Scikit-learn` `Tailwind CSS`  
 
 ### 🤖 AI / ML & GenAI  
+- Large Language Models (LLMs)  
 - Hugging Face Transformers  
-- Stable Diffusion + ControlNet  
-- LangChain & Agentic AI  
-- Computer Vision (OpenCV, YOLO)  
+- Stable Diffusion XL + ControlNet  
+- LangChain & Agentic AI Systems  
+- Computer Vision (OpenCV, YOLOv8)  
 
 ### ☁️ Cloud & DevOps  
-`Docker` `Kubernetes` `GCP` `CI/CD` `GitHub` `kubectl`  
+`Docker` `Kubernetes` `PostgreSQL` `GitHub Actions`  
+`GCP` `CI/CD` `Linux` `kubectl`  
 
 ### 🧰 Tools & Concepts  
-`D3.js` `n8n` `REST APIs` `Graph Algorithms (BFS/DFS)`  
+`D3.js` `Socket.IO` `REST APIs` `MCP Servers`  
+`Database Design` `System Design` `Graph Algorithms (BFS/DFS)`  
 
 ---
 
 ## 💼 Experience  
 
 ### 💼 DevOps Intern @ Ericsson India *(Jun 2025 – Aug 2025)*  
-- 🚀 Deployed & monitored **containerized applications in Kubernetes**  
-- ⚙️ Managed **pod lifecycle, scaling & debugging using kubectl**  
-- 🔧 Assisted in maintaining **CI/CD pipelines for telecom infrastructure**  
-- 📈 Improved system reliability by resolving configuration issues  
+- 🚀 Worked with **containerized applications and Kubernetes environments**  
+- ⚙️ Managed **deployment, monitoring, scaling & troubleshooting workflows**  
+- 🔧 Assisted in maintaining **CI/CD pipelines and infrastructure automation**  
+- 📈 Improved system reliability through configuration optimization and debugging  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🌐 Social Media Visualizer  
-> Full-stack MERN platform to understand recommendation systems  
+> Interactive platform for visualizing social media recommendation systems  
 
-- ⚡ Built real-time multi-user system with **Socket.IO**  
-- 📊 Designed **D3.js graph visualizations with BFS traversal**  
-- 🧠 Implemented hybrid recommendation engine (4 scoring factors across platforms)  
+- ⚡ Built full-stack application with **React, Node.js, MongoDB & Socket.IO**  
+- 📊 Developed **D3.js network visualizations with BFS-based traversal**  
+- 🧠 Implemented multi-factor recommendation engine across social platforms  
+- 🎯 Enabled real-time exploration of content propagation and user influence  
 
 ---
 
-### 🎨 Generative AI Interior Design Studio  
-> AI-powered room transformation system  
+### 🎨 Generative AI Interior Designer  
+> AI-powered room redesign and visualization platform  
 
-- 🖼️ Used **Stable Diffusion + ControlNet** for photorealistic outputs  
-- 🔍 Combined **Depth + Canny edge detection** for structure preservation  
-- ⚙️ Built async **FastAPI backend with SDXL integration**  
-- 🎯 Achieved **60–80% structural fidelity control**  
+- 🖼️ Leveraged **Stable Diffusion XL + ControlNet** for realistic room transformations  
+- 🔍 Integrated **Depth Estimation & Canny Edge Detection** for layout preservation  
+- ⚙️ Built scalable **FastAPI backend with asynchronous AI pipelines**  
+- 🎯 Generated photorealistic interiors while maintaining structural consistency  
 
+---
+
+### 🐾 AI Animal Detection & Classification System  
+> Intelligent wildlife analysis platform using computer vision  
+
+- 🤖 Developed object detection workflows using **YOLOv8**  
+- 📷 Performed wildlife detection and classification from image inputs  
+- 📊 Applied machine learning techniques for animal risk assessment  
+- 🚀 Built user-friendly interfaces for real-time inference and visualization  
+
+---
 
 ## 🧠 DSA & Problem Solving  
 
-- Strong in **Graphs, Trees, Hashing, Recursion**  
-- Hands-on with **BFS, DFS, Binary Search, Sorting Algorithms**  
-- Focused on **optimization & edge-case handling**  
-- Applied DSA concepts in **real-world projects (visualization & systems)**  
+- Strong in **Graphs, Trees, Hashing, Recursion & Dynamic Programming**  
+- Hands-on with **BFS, DFS, Binary Search, Greedy & Sorting Algorithms**  
+- Focused on **optimization, scalability & edge-case handling**  
+- Applied algorithmic concepts in **visualization systems, recommendation engines & AI projects**  
 
 ---
 
 ### 📜 Certifications  
+
 - Google Cloud Computing Foundations *(In Progress)*  
-- NPTEL: Operating Systems, Java  
+- NPTEL: Operating Systems, Java Programming  
 - IIT Kanpur: Python for AI/ML & Data Science  
 
 ---
-
 
 ## 🌐 Connect With Me  
 
@@ -99,8 +115,8 @@
 
 <div align="center">
 
-### ⚡ *"Build. Break. Learn. Repeat."*  
+### ⚡ *"Build. Learn. Innovate. Repeat."*  
 
-🚀 Open to collaborations in AI, Full-Stack & impactful tech!
+🚀 Open to collaborations in AI, Generative AI, Full-Stack Development & Open Source!
 
 </div>
