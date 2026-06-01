@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me  
 
 🎓 **B.Tech CSE (Data Science)** @ Manipal University Jaipur *(2023–2027)*  
-📊 **CGPA: 9.4 / 10**  
+📊 **CGPA: 9.33 / 10**  
 
 ✨ I specialize in combining **AI + Full Stack Development** to build real-world, impactful systems  
 🔍 Strong foundation in **DSA, System Design & Machine Learning**  
@@ -89,16 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AaroAarav&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaroAarav&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
----
 
 ## 🌐 Connect With Me  
 
